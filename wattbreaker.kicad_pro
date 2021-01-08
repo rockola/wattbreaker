@@ -378,7 +378,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "images/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -386,12 +386,12 @@
   },
   "sheets": [
     [
-      "f12795c7-6ced-4f29-9020-a5a6d2b3087c",
+      "7dc50072-aaec-4deb-b0b8-6a26bef06dd0",
       ""
     ]
   ],
   "text_variables": {
-    "DATE": "2021-01-06",
+    "DATE": "2021-01-08",
     "REVISION": "v0.1",
     "TITLE": "Wattbreaker",
     "URL": "github.com/rockola/wattbreaker"
